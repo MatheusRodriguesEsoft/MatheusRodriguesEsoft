@@ -45,10 +45,10 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusRodriguesEsoft&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MTheusRodrigues&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRodriguesEsoft&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTheusRodrigues&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
