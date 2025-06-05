@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
+<h1 align="center">Olá, eu sou Matheus Rodrigues 👋</h1>
 
 <p align="center">
   Engenheiro de Software | Full Stack Developer | Apaixonado por resolver problemas com código
@@ -36,8 +36,8 @@
 ### 📌 Meus Links
 
 - 🌐 Portfólio: [web-profile-ivory.vercel.app](https://web-profile-ivory.vercel.app)
-- 💼 LinkedIn: [linkedin.com/in/seunome](https://linkedin.com/in/seunome)
-- 📫 E-mail: [seuemail@email.com](mailto:seuemail@email.com)
+- 💼 LinkedIn: [https://linkedin.com/in/seunome](https://www.linkedin.com/in/matheus-rodrigues-in/)
+- 📫 E-mail: [matheus.rodrigues.esoft@gmail.com](mailto:matheus.rodrigues.esoft@gmail.com)
 
 ---
 
