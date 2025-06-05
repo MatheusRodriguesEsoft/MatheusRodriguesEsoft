@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  Feito com ❤️ por [Seu Nome]
+  Feito com ❤️ por Matheus Rodrigues
 </p>
