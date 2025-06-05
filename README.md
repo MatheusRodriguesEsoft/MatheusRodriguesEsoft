@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Matheus Rodrigues 👋</h1>
 
 <p align="center">
-  Engenheiro de Software | Full Stack Developer | Apaixonado por resolver problemas com código
+  Engenheiro de Software | Full Stack Developer Pleno | ReactJS, Next.js, Spring Boot, TypeScript, Docker, CI/CD | DevOps | Kubernetes | AWS | APIs REST
 </p>
 
 ---
