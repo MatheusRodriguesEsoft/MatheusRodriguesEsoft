@@ -38,6 +38,7 @@
 - 🌐 Portfólio: [matheusrodrigues.me](https://web-profile-ivory.vercel.app)
 - 💼 LinkedIn: [linkedin.com/in/matheusrodrigues](https://www.linkedin.com/in/matheus-rodrigues-in/)
 - 📫 E-mail: [matheus.rodrigues.esoft@gmail.com](mailto:matheus.rodrigues.esoft@gmail.com)
+- 🐙 GitHub secundário: [GitHub: MatheusRodrigues](https://github.com/MTheusRodrigues)
 
 ---
 
